@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Naveen-Goud
+- 👋 Hi, I’m @Naveen-Goud<br>
 A techy guy who is progressing through his ideas to bring them to life.
 - 👀 I’m interested in Exploring New Technologies
 - 🌱 I’m currently working on Web development Domain
