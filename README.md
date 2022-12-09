@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Naveen-Goud<br>
-A techy guy who is progressing through his ideas to bring them to life.
+A techy guy who is progressing through his ideas to bring them to life 🌱
 - 👀 I’m interested in Exploring New Technologies
 - 🌱 I’m currently working on Web development Domain
 - 💞️ I’m readily looking to collaborate on Web Dev Projects
